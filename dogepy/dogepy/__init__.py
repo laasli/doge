@@ -1,11 +1,11 @@
 import os
-
 def suchDogeMuchAscii():
-    soString = """
+    os.system('cls' if os.name == 'nt' else 'clear');
+    soString = """\033[93m
 
                 Y.                      _
                 YiL                   .```.
-                Yii;                .; .;;`.
+                Yii;       WOW      .; .;;`.
                 YY;ii._           .;`.;;;; :
                 iiYYYYYYiiiii;;;;i` ;;::;;;;
             _.;YYYYYYiiiiiiYYYii  .;;.   ;;;
@@ -26,8 +26,5 @@ _.._ :`4MM$!YYYYYYYYYii,.__.diii$$YYYYYYYYYYY
       .i!$$$$$$YYYYYYYYY$$$$$$YYY$$YYiiiiiiYYYYYYY
      :YYiii$$$$$$$YYYYYYY$$$$YY$$$$YYiiiiiYYYYYYi'
 
-    """
-    os.system('cls' if os.name == 'nt' else 'clear');
-    print(soString);
-
-suchDogeMuchAscii()
+    \033[0m"""
+    print(soString)
