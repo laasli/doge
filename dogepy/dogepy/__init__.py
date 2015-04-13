@@ -2,7 +2,6 @@ import os
 def suchDogeMuchAscii():
     os.system('cls' if os.name == 'nt' else 'clear');
     soString = """\033[93m
-
                 Y.                      _
                 YiL                   .```.
                 Yii;       WOW      .; .;;`.
@@ -25,6 +24,5 @@ _.._ :`4MM$!YYYYYYYYYii,.__.diii$$YYYYYYYYYYY
       `$$$$$$$YYYYYYYYYYYYY$$$$$$YYYYYYYYiiiYYYYYY
       .i!$$$$$$YYYYYYYYY$$$$$$YYY$$YYiiiiiiYYYYYYY
      :YYiii$$$$$$$YYYYYYY$$$$YY$$$$YYiiiiiYYYYYYi'
-
     \033[0m"""
     print(soString)
