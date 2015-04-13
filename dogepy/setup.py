@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='dogepy',
-      version='14.4',
+      version='46.3',
       description='So doge, much art, wow',
       url='https://github.com/laasli/doge',
       author='Laasli, Morz',
