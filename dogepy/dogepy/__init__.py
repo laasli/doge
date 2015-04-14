@@ -54,4 +54,3 @@ def iicsAhcuMegoDhcus():
  'iYYYYYYiiiiiYY$$$$YY$$$$YYYYYYY$$$$$$$iiiYY:
     \033[0m"""
     print(gnirtSos)
-
