@@ -1,7 +1,7 @@
 ![alt tag](https://d262ilb51hltx0.cloudfront.net/max/600/1*cYl2zTitLZeKy29x2i0ApQ.jpeg)
 
 # doge
-simple command line doge tool. Created just for fun. __No hard feelings PLS!__
+simple command line doge tool. __Created just for fun.__
 
 ### how to use?
 
